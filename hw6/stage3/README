@@ -1,0 +1,24 @@
+Name: Andrew Obatake
+
+What was completed:
+I have completed Stage 3. I have inlcuded IM2.V
+
+Description of folder contents:
+This folder contains the LEGLite-Control, LEGLite-Pc, LEGLiteSingle, Parts, and the testbench.
+
+LEGLite-Control: This file contains the instructions for the control module of the CPU.
+
+LEGLite-PC: This file contains the instructions for the Program Counter of the CPU.
+
+LegLiteSingle: This file contains the instructions that connect all the modules of the CPU.
+
+Parts: This file contains sets of instructions for multiple modules of the CPU. These modules are:
+  The ALU
+  A 2-1 MUX
+  A 4-1 Mux
+  The Data memory Module
+  The Register Module
+  The Instruction Memory Module
+  The Sign-Extend module
+
+testbench: This is the provided testbench used to test the completed CPU.
